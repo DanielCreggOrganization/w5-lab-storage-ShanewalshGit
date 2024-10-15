@@ -1,0 +1,7 @@
+{
+  "name": "w-5-lab-storage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
