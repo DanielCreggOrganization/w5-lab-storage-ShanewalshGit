@@ -3,6 +3,7 @@ import { Component } from '@angular/core';
 import { StorageService } from '../services/storage.service';
 import { IonicModule } from '@ionic/angular';
 import { FormsModule } from '@angular/forms';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-home',
